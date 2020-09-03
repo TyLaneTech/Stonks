@@ -1,0 +1,4 @@
+finnhub-python==2.2.0
+pandas==1.1.1
+requests==2.24.0
+webcolors-1.11.1
